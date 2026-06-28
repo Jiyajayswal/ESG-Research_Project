@@ -1,0 +1,38 @@
+{
+    "report_id": "COP_2024",
+    "company_id": "COP",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "G1",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": false,
+        "forward_looking": true,
+        "target_linked": true,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 2, 4],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 6,
+            "quotation": "Our board of directors oversees our strategic planning and risk management programs, including those related to sustainability. The board allocates certain oversight functions to its five standing committees to provide expertise and effective supervision across the business. The full board also reviews the climate risk strategy at the annual Board Strategy Session."
+        },
+        {
+            "page": 6,
+            "quotation": "Reviews and monitors climate, nature and social-related trends, and domestic and international public policy issues. Makes recommendations to the board of directors and monitors compliance with our company's sustainability policy, standard and practices."
+        },
+        {
+            "page": 7,
+            "quotation": "Executive and employee compensation is linked to sustainability performance through our annual Variable Cash Incentive Program (VCIP). This annual cash incentive is based on company success on critical performance metrics, including Energy Transition Milestones and Strategic Milestones that are aligned with SD priorities and, combined, are weighted to account for 20% of the total potential VCIP payout."
+        }
+    ],
+    "note": "criteria 1, 2, 4 — 3 of 5. Criterion 1 satisfied by the explicit 20% VCIP weighting figure in Span 3 (page 7), overseen by the HR&C Committee of the board. Criterion 2 satisfied by board oversight of named Energy Transition Milestones and the climate risk strategy in Spans 1 and 3. Criterion 3 not satisfied: per handbook v1.3, committee structures, oversight cadences, and compensation programme design do not constitute measurement or calculation methodology for G1 — no quantitative or analytical methodology statement is present in selected spans. Criterion 4 satisfied by the explicit annual Board Strategy Session cadence (Span 1, page 6) and annual VCIP cycle (Span 3, page 7). Criterion 5 not satisfied: no multi-year trend of oversight metrics or progress data is presented in selected spans. Boundary note: page 7 ELT, SDLT, and IWG quarterly meeting descriptions are management-level and belong to G2, not G1; they were not selected. The VCIP compensation linkage in Span 3 sits at the G1/G2 boundary but was attributed to G1 because the HR&C Committee (a board committee) supervises the VCIP programme. Cross-concept note: the VCIP reference to the Plan for the Net-Zero Energy Transition also provides background context for S4 (Transition Planning).",
+    "temporal_mode": "static",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

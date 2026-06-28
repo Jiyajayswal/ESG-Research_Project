@@ -1,0 +1,38 @@
+{
+    "report_id": "EOG_2024",
+    "company_id": "EOG",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "G1",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": false,
+        "forward_looking": true,
+        "target_linked": true,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 2, 4],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 60,
+            "quotation": "Currently, our Board of Directors is comprised of seven nonemployee, independent directors and our Chairman of the Board of Directors and Chief Executive Officer, Ezra Yacob. Directors are elected annually under a majority-vote standard, which provides our stockholders with a meaningful voice in the annual director election process. Our Board of Directors committees — the Audit Committee, the Compensation and Human Resources Committee, and the Nominating, Governance and Sustainability Committee (Nominating Committee) — are each composed solely of independent directors."
+        },
+        {
+            "page": 21,
+            "quotation": "Executive management, our Board of Directors, and the Nominating, Governance and Sustainability Committee regularly review performance against our emissions targets to support continued, strong performance."
+        },
+        {
+            "page": 66,
+            "quotation": "EOG's executive officers are eligible to receive bonuses under our annual bonus plan, based on our achievement of the financial, strategic, operational, and organizational goals established by the Compensation and Human Resources Committee of the Board of Directors. The separately weighted safety and environmental goals established for 2024 encompassed our Total Recordable Incident Rate, Severity Index Rate, safety leadership program attendance, oil spill and oil recovery rates, GHG and flaring emissions intensity rates, methane emissions percentage, and wellhead gas capture rate, in each case based on specified performance metrics. The safety performance metrics and environmental performance metrics were each weighted 7.5%."
+        }
+    ],
+    "note": "criteria 1, 2, 4 — 3 of 5. Criterion 1 (quantitative grounding) satisfied: p.60 states board is comprised of seven nonemployee independent directors plus the CEO — a specific board member count satisfying the handbook's criterion 1 example for G1 (board member counts). Criterion 2 (target-bound) satisfied: p.21 explicitly states the Board of Directors and Nominating, Governance and Sustainability Committee regularly review performance against named emissions targets — handbook confirms this satisfies criterion 2 ('oversight of a named GHG, flaring, or sustainability target'). Criterion 3 (methodology disclosed) not satisfied: per handbook v1.3 explicit clarification, governance oversight descriptions — including committee structures, cadences, and oversight process descriptions — do NOT satisfy methodology_disclosed for G1; methodology_disclosed attribute set false accordingly. Criterion 4 (time horizon) satisfied: p.66 establishes an explicit annual compensation cycle for 2024 with separately weighted safety and environmental performance goals at 7.5% each; this constitutes a stated reporting/review cadence per the handbook's criterion 4 examples. Criterion 5 (progress tracking) not satisfied: no multi-period documentation of board oversight of progress against named targets across periods is present in selected spans — p.21 describes ongoing oversight but does not record cross-period progress review. Boundary call: management-level mechanisms described on p.64 (Safety Group, Environmental and Sustainability Group, Compliance Committee) belong to G2 and were excluded. Span 3 (p.66) also cross-supports M5 and O1 through its enumeration of GHG, flaring intensity, and methane percentage as named compensation metrics. forward_looking set true: p.66 references 2025 safety and environmental annual performance goals. target_linked set true: named emissions targets explicitly linked to board oversight on p.21. assured set false: no named third-party assurer appears in any selected span linked to this concept's data.",
+    "temporal_mode": "static",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

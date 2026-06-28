@@ -1,0 +1,39 @@
+{
+    "report_id": "COP_2024",
+    "company_id": "COP",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "M5",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": true,
+        "target_linked": true,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 2, 4, 5],
+    "confidence": "High",
+    "coverage_scope": "corporate",
+    "spans": [
+        {
+            "page": 25,
+            "quotation": "We have committed to multiple targets for reducing operational (Scope 1 and Scope 2) emissions over which the company has ownership. Our targets are: Reduce GHG emissions intensity to 50-60% by 2030 on both a gross operated and net equity basis from a 2016 baseline. Achieve near-zero methane emissions intensity by 2030. Reduce methane emissions intensity by 10% by 2025 from a 2019 baseline. Achieve a target of zero routine flaring by the end of 2025, five years sooner than the World Bank initiative's goal of 2030 (excluding heritage Marathon Oil assets)."
+        },
+        {
+            "page": 25,
+            "quotation": "Achieved target-related GHG intensity reductions, from a 2016 baseline: 45% reduction on a gross operated basis 36% reduction on a net equity basis. Executing projects to reduce GHG emissions intensity to 50-60% by 2030, on both gross operated and net equity basis from 2016 baseline."
+        },
+        {
+            "page": 24,
+            "quotation": "The minimum boundary for reporting on environmental priorities is the assets we operate. Current and updated targets and ambitions are outlined in near, medium and long-term timeframes. Our progress to date has not included the use of voluntary offsets."
+        }
+    ],
+    "note": "criteria 1, 2, 4, 5 — 4 of 5. Criterion 1 satisfied by four named targets with specific figures: 50–60% GHG intensity reduction, near-zero methane intensity, 10% methane reduction by 2025, zero routine flaring by 2025 (Span 1, page 25); and 45%/36% progress figures (Span 2, page 25). Criterion 2 satisfied by explicit baseline years (2016 for GHG intensity; 2019 for methane) and target years (2030; 2025) in Span 1. Criterion 3 judgment call: Span 3 states the minimum boundary (operated assets), Span 1 states dual gross operated and net equity scope, and the offset exclusion note constitutes a target boundary methodology statement — however, this is boundary-focused rather than calculation-methodology-focused and is flagged as a calibration candidate for Criterion 3. Criterion 4 satisfied by 2025 near-term and 2030 medium-term target years and the near/medium/long-term horizon framing (Spans 1 and 3). Criterion 5 satisfied by 45% gross operated and 36% net equity reductions achieved from 2016 baseline to 2024 (Span 2, page 25). coverage_scope = corporate: targets apply to full company operations on both gross operated and net equity bases. trend_disclosed = false: Span 2 provides a point-in-time progress snapshot against baseline, not a multi-year annual data series across anchor + 2 prior years. Boundary note: detailed milestone progress (OGMP Gold Standard, pneumatic device removal, routine flaring to 4 MMCF) in the progress column of page 25 belongs to M6, not M5. Cross-concept note: Span 3 boundary statement also provides supporting context for F1 if F1 evidence is limited.",
+    "temporal_mode": "static",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

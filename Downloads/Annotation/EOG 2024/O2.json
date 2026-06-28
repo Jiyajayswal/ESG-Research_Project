@@ -1,0 +1,38 @@
+{
+    "report_id": "EOG_2024",
+    "company_id": "EOG",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "O2",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": true,
+        "target_linked": true,
+        "trend_disclosed": true,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 3, 4, 5],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 6,
+            "quotation": "U.S. Scope 1 GHG Emissions by Source\nFlaring Million metric tons CO2e 0.4 0.4 0.4 0.6 0.5\nU.S. Scope 1 GHG Intensity Rate by Source\nFlaring Metric tons CO2e/MBoe 0.8 0.9 1.2 1.6 1.6\nU.S. Wellhead Gas Capture\nWellhead Gas Capture Rate % 99.9 99.9 99.9 99.8 99.6"
+        },
+        {
+            "page": 27,
+            "quotation": "Committed to zero routine flaring by 2025, as an endorser of the World Bank's Zero Routine Flaring by 2030 Initiative — achieved in 2023 and 2024"
+        },
+        {
+            "page": 75,
+            "quotation": "GHG Source: Flaring Flaring emissions sources include flare stacks, associated gas, dehydrators, completions, workovers, and storage tanks. A flare is one type of combustion device, whether at ground level or elevated, that uses an open or closed flame to combust waste gases or to control emissions without energy recovery."
+        }
+    ],
+    "note": "criteria 1, 3, 4, 5 — 4 of 5. Criterion 1 (quantitative grounding) satisfied: p.6 tear sheet reports flaring GHG emissions at 0.4 Mt CO2e for 2024 and flaring GHG intensity rate at 0.8 metric tons CO2e/MBoe for 2024; wellhead gas capture rate of 99.9% is also quantified; all figures carry explicit units and a five-year series (2020–2024). Criterion 2 (target-bound) not satisfied: the zero routine flaring commitment on p.27 and p.34 states a target period (2025–2030) and was achieved in 2023 and 2024, but no separate explicit baseline year with a named baseline value is stated for this target — the handbook requires both baseline year and target year to satisfy criterion 2; the zero flaring target is more accurately characterised as a named commitment with a target year than a fully specified target with baseline and target year. This is the one close call in this annotation; flagged for calibration but criterion 2 is not credited. Criterion 3 (methodology disclosed) satisfied: p.75 explicitly defines the flaring emissions source boundary — flare stacks, associated gas, dehydrators, completions, workovers, and storage tanks — per EPA GHGRP Subpart W; this constitutes an explicit boundary definition for flaring measurement satisfying criterion 3. Criterion 4 (time horizon) satisfied: 2024 reporting year explicit; the zero routine flaring target window 2025–2030 is stated on p.34. Criterion 5 (progress tracking) satisfied: flaring GHG absolute emissions series 0.5 / 0.6 / 0.4 / 0.4 / 0.4 Mt CO2e and flaring intensity rate series 1.6 / 1.6 / 1.2 / 0.9 / 0.8 metric tons CO2e/MBoe for 2020–2024 both appear on p.6 — anchor year plus four prior years. Boundary call: methane content of flared gas is a cross-boundary item (O1 and O2 per handbook); flaring intensity figures in span 1 are also used in M1 Scope 1 by-source data — both cross-concept references noted. Handbook pitfall check: scenario_linked = false confirmed — World Bank Zero Routine Flaring by 2030 is an industry initiative, not a named IEA/IPCC/NGFS climate scenario; TCFD alignment language elsewhere in report does not satisfy scenario_linked. assured set false: assurer not named in any selected span. Note on venting: EOG's report does not separately quantify vented volumes; venting is described qualitatively within the Other Sources GHG category on p.75 (dehydrators, equipment blowdown, liquids unloading, workovers, compressors, storage tanks); this limitation does not affect the criteria count as quantitative flaring data alone satisfies criterion 1.",
+    "temporal_mode": "longitudinal",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

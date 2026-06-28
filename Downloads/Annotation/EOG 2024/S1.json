@@ -1,0 +1,38 @@
+{
+    "report_id": "EOG_2024",
+    "company_id": "EOG",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "S1",
+    "presence": "PARTIAL_DISCLOSURE",
+    "attributes": {
+        "quantitative": false,
+        "methodology_disclosed": true,
+        "forward_looking": true,
+        "target_linked": false,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": true,
+        "scenario_linked": false
+    },
+    "criteria_met": [3, 4],
+    "confidence": "Medium",
+    "spans": [
+        {
+            "page": 18,
+            "quotation": "Global supply and demand for crude oil and natural gas are affected by several factors, including consumer demand and behavior, the availability of alternative energy sources, general economic conditions, geopolitical events, and carbon-related regulations and policy initiatives. However, commodity price volatility caused by supply and demand factors outside our direct control, such as the business cycle, general economic and geopolitical conditions, and regulatory changes, is a risk we are long accustomed to managing as an oil and natural gas company."
+        },
+        {
+            "page": 19,
+            "quotation": "Monitor and assess climate change-related regulatory, legal, operational, and reputational issues that could affect EOG and the oil and natural gas industry, to determine the potential impact on our business and operations and take action where appropriate."
+        },
+        {
+            "page": 17,
+            "quotation": "As part of the process for evaluating and planning our operations, EOG considers how to mitigate relevant physical risks from weather changes and extreme weather events such as floods, hurricanes, and intense heat and cold. We operate a diversified portfolio of assets across multiple regions with unique environmental and weather-related considerations. Our decentralized structure enables us to apply our localized knowledge, so that we are prepared for the weather-related physical risks specific to each of our operating areas."
+        }
+    ],
+    "note": "criteria 3, 4 — 2 of 5. Criterion 1 (quantitative grounding) not satisfied: no standalone magnitude estimates are attached to identified climate risks outside the scenario analysis context; the quantitative outputs on p.20 (carbon tax $135/t, cost $3.30/Boe by 2040) are scenario-driven and belong to S3, not S1 — per handbook, coding scenario-based risk estimates as S1 when a named scenario drives the magnitude is a pitfall to avoid. Criterion 2 (target-bound) not satisfied: no named risk-reduction target with baseline and target year is disclosed at the S1 level. Criterion 3 (methodology disclosed) satisfied: p.19 explicitly names four risk categories — regulatory, legal, operational, and reputational — and states a named monitoring and assessment process; p.17 describes a physical risk assessment methodology (localized knowledge, decentralized structure, region-specific mitigation measures for named hazard types: floods, hurricanes, extreme heat and cold); together these constitute an explicitly stated assessment methodology for climate risk identification. Criterion 4 (time horizon) satisfied: p.18 references long-term global energy supply, commodity price cycles, and planning horizons; p.19 management approach references ongoing monitoring; physical risk considerations on p.17 apply to current and future operational planning, establishing a forward-looking time context. Criterion 5 (progress tracking) not satisfied: no multi-year tracking of risk taxonomy evolution or risk magnitude changes across periods is disclosed. Boundary calls: (a) quantitative risk magnitudes on p.20 derive from the APS scenario and belong to S3 — excluded from S1 spans per handbook pitfall; (b) response and mitigation actions on p.17 (drainage systems, cooling trailers) and p.19 (technology investments) border S4 but are included here as part of the risk identification and management methodology, not as a transition plan. uncertainty_discussed = true: p.18 explicitly acknowledges uncertainty in 'timing and scale of specific climate-related efforts and technologies' as a named uncertainty source. forward_looking = true: physical risk planning (p.17) and management approach (p.19) both reference prospective mitigation and monitoring. Confidence Medium: S1 risk identification is largely qualitative; no risk categorisation with likelihood × impact language; risk types are named but not individually characterised with magnitude or time horizon; the TCFD index on p.80 maps climate risks to pp.18–20 confirming these are the primary S1 disclosure pages. Recommended calibration item: whether the four-category risk taxonomy (regulatory, legal, operational, reputational) on p.19 without per-risk time horizons or magnitudes satisfies criterion 3 at the presence level.",
+    "temporal_mode": "static",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

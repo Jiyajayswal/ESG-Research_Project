@@ -1,0 +1,38 @@
+{
+    "report_id": "EOG_2024",
+    "company_id": "EOG",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "S4",
+    "presence": "PARTIAL_DISCLOSURE",
+    "attributes": {
+        "quantitative": false,
+        "methodology_disclosed": true,
+        "forward_looking": true,
+        "target_linked": true,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [3, 4],
+    "confidence": "Medium",
+    "spans": [
+        {
+            "page": 22,
+            "quotation": "Our current and future efforts to address emissions from our operations fall into three primary categories: reduce, capture, and offset. The following table provides more information on the innovative technologies and practices that support our efforts.\nReduce\nReducing emissions intensity from our operations is an immediate and direct path to reducing our carbon footprint. By focusing our efforts first on reducing emissions, we have made a number of technical innovations and operational advancements that have enabled significant reductions in our Scope 1 emissions intensities over the past several years.\n• Achieved zero routine flaring\n• Optimizing wellhead and facility gas capture systems\n• Implementing closed-loop gas capture and continuous leak detection (iSense®)\n• Minimizing combustion-related emissions through compressor and artificial lift optimization\n• Expanding emission monitoring efforts through increased LDAR surveys, iSense deployment, and aerial-based survey technologies\nCapture\nWe are exploring technology to capture carbon emissions from our operations. In 2023, we commenced CO2 injection in our carbon capture and storage pilot project.\n• Operating carbon capture and storage (CCS) pilot project\n• Prioritizing pure stream CO2 emissions locations for CCS\n• Evaluating additional CCS locations\nOffset\nWe will evaluate options to offset GHG emissions as needed.\n• Evaluating projects and other options to offset remaining emissions"
+        },
+        {
+            "page": 25,
+            "quotation": "Our approach to CCS supports our ongoing efforts to address operational emissions and progress the capture portion of our emissions reductions pathways. CCS requires multiple disciplines inherent to EOG's current operational skill set, including subsurface geology, well drilling and completions, and facility engineering and design. We currently operate a pilot project that captures concentrated carbon dioxide emissions from the treating of natural gas within our operations and injects it at a facility in Texas. The pilot project has provided us insights into carbon capture and transportation systems, reservoir characteristics for carbon sequestration, and long-term monitoring and verification."
+        },
+        {
+            "page": 19,
+            "quotation": "Develop and invest in technological innovations to capture operational Scope 1 emissions. Evaluate tools and mechanisms to address Scope 2 emissions. Improve capital efficiency and emissions intensity across operations by investing in technology and process innovations."
+        }
+    ],
+    "note": "criteria 3, 4 — 2 of 5. Criterion 1 (quantitative grounding) not satisfied: no specific capex allocation, investment amount, or quantified contribution of individual technology pathways to emissions reductions is disclosed; the CCS pilot project is described operationally but without a named investment figure; the handbook positive example cites '$4.5B over 2024–2028 to CCS deployment' as the S4 benchmark — EOG's disclosure does not reach this level of specificity. Criterion 2 (target-bound) not satisfied: no named milestone with a baseline year and target year at the S4 transition plan level is stated; the net zero ambition is referenced (p.21) but explicitly has no fixed target date, and per handbook pitfall, net-zero pledges without both baseline and target year do not satisfy criterion 2; emissions intensity targets belong to M5. Criterion 3 (methodology disclosed) satisfied: EOG explicitly names three technology pathways for decarbonisation (reduce, capture, offset) on p.22 with specific named technologies under each — iSense continuous leak detection, LDAR programme, closed-loop gas capture, CCS pilot injection, vapor recovery systems, compressor and combustion optimisation; CCS methodology on p.25 describes subsurface geology, drilling/completions, facility engineering, and long-term monitoring disciplines; these constitute an explicit technology pathway description satisfying criterion 3 for S4. Criterion 4 (time horizon) satisfied: CCS pilot commenced CO2 injection in 2023 with ongoing 2024 operations; p.19 references forward-looking investments in technology; the reduce/capture/offset framework on p.22 covers 'current and future efforts'; net zero Scope 1 and 2 ambition stated as long-term direction on p.21 provides a horizon context even without a fixed year. Criterion 5 (progress tracking) not satisfied: no multi-period tracking of capex deployed, technology milestones achieved, or decarbonisation strategy progress across reporting years is disclosed. Handbook pitfall applied: per handbook, 'business strategy narrative framed as climate-aligned is weaker S4 evidence than explicit decarbonisation pathways — flag as Medium confidence if no low-carbon technology investments are stated.' EOG does describe CCS and LDAR as active technology deployments (not merely commitments), which is stronger than a pure narrative — but the absence of any capex figure or quantified technology contribution keeps this at PARTIAL_DISCLOSURE. target_linked = true: the transition strategy is explicitly linked to named emissions targets (GHG intensity 25% by 2030, zero routine flaring, near-zero methane) via p.22 referencing achieved and ongoing targets. Boundary calls: (a) emissions intensity targets on p.21/p.34 belong to M5 — not credited as S4 evidence; (b) CCS pilot injection commenced in 2023 is an operational milestone but without a stated investment figure or contribution percentage to Scope 1 reductions; (c) OGMP 2.0 and LDAR content also supports O1. Confidence Medium: criterion 3 required judgment — named technology pathways without capex are weaker S4 evidence than explicit investment allocations; recommended calibration item.",
+    "temporal_mode": "mixed",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

@@ -1,0 +1,38 @@
+{
+    "report_id": "APA_2024",
+    "company_id": "APA",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "O2",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": false,
+        "target_linked": false,
+        "trend_disclosed": true,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 3, 4, 5],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 36,
+            "quotation": "To support our mission to continually reduce emissions from flaring, APA has undertaken several projects and is planning a series of additional energy efficiency and methane utilization initiatives. In Egypt, projects that have been completed include implementing flare-to-power generation at remote facilities and substituting diesel-based power generation with newly gathered and rerouted produced gas streams. In the U.K., on our Beryl Alpha platform, we have begun conceptual engineering and are planning to commence in 2024 Front End Engineering Design (FEED) work on a flare recovery system to recover gas from the flare system and reroute it to a low-pressure compression train for export. In the U.S., our reduced-emissions completions process captures gas produced during well completions and workovers to be processed for sale rather than being flared or vented."
+        },
+        {
+            "page": 36,
+            "quotation": "In the oil and gas industry, venting refers to the direct release of natural gas, most of which is methane. There are many safety and operational reasons for venting to occur; however, APA seeks to reduce venting within our operations. To reduce GHG emissions, we preferentially flare gas rather than vent it, as direct methane emissions have a higher global warming potential. Recently, we have undertaken multiple projects and process improvements to reduce venting emissions, in particular, the venting of methane-rich gas streams. In the U.K., we have successfully rerouted venting from glycol recovery units to low-pressure flares, resulting in a 64% reduction in methane emissions from gas venting at our Beryl platforms."
+        },
+        {
+            "page": 128,
+            "quotation": "— Flaring Thousand tCO₂e 1,573 1,409 1,477 1,480 2,060 — Venting Thousand tCO₂e 575 576 690 420 430"
+        }
+    ],
+    "note": "criteria 1,3,4,5 — 4 of 5. Criterion 1 (quantitative): flaring 1,573 thousand tCO₂e (2023) and venting 575 thousand tCO₂e (2023) in KPD table (p.128) with 5-year series; 527,439 tCO₂e total flaring reduction since 2019 noted as callout stat on p.36 (25% reduction); 64% reduction in methane venting at Beryl platforms (p.36). Criterion 2 (target-bound): not satisfied — no standalone flaring or venting volume target with explicit baseline year and target year is disclosed for O2. The methane intensity target (p.38) addresses methane-containing venting indirectly but is coded primarily to O1/M5 and does not constitute a named flaring volume target for O2. forward_looking = false: the UK FEED work on flare recovery is project-stage planning but no quantified future volume target is attached. Criterion 3 (methodology): flaring and venting disclosed as separate KPD line items in thousand tCO₂e under the operated-control GHG boundary (consistent with M1 methodology); distinction between flaring (combustion) and venting (direct release) explicitly defined on p.36; preferential flaring over venting stated as a policy choice with methodological rationale (GWP differential). Criterion 4 (time horizon): 2023 anchor; 2019–2023 five-year longitudinal series; 'since 2019' reduction reference anchors the temporal window. Criterion 5 (progress tracking): 5-year flaring series (2,060→1,480→1,477→1,409→1,573 thousand tCO₂e, 2019–2023) and venting series (430→420→690→576→575) in KPD table (p.128) satisfy anchor year + 4 prior years. Note: 2023 flaring (1,573) is higher than 2022 (1,409), suggesting operational variability; this is captured in the data without specific explanation in the report. Boundary: venting of methane-rich gas is shared evidence with O1 per handbook rule (methane content of vented gas coded to both). assured = false. scenario_linked = false: TCFD reference in FEED planning context is a framework, not a named climate scenario.",
+    "temporal_mode": "longitudinal",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

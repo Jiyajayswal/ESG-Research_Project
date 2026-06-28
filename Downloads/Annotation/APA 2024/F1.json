@@ -1,0 +1,38 @@
+{
+    "report_id": "APA_2024",
+    "company_id": "APA",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "F1",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": false,
+        "methodology_disclosed": true,
+        "forward_looking": false,
+        "target_linked": false,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": true,
+        "scenario_linked": false
+    },
+    "criteria_met": [3, 4, 5],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 10,
+            "quotation": "The report was prepared in accordance with the Global Reporting Initiative Sustainability Reporting Standards at the core level. We also consulted the Oil and Gas Industry Guidance on Voluntary Sustainability Reporting developed by Ipieca (the global oil and gas industry association for environmental and social issues), the American Petroleum Institute and the International Association of Oil and Gas Producers (IOGP); the Sustainability Accounting Standards Board's Oil and Gas Exploration and Production Sustainability Accounting Standard; and the recommendations of the Task Force on Climate-related Financial Disclosures. Data included in this report cover the 2023 calendar year unless otherwise noted."
+        },
+        {
+            "page": 167,
+            "quotation": "The estimated APA GHG emissions described in this report are derived from a combination of measured and estimated data using the best reasonably available information as of December 31, 2023. We use industry standards and practices for estimating GHG emissions, including guidance from the U.S. EPA, U.K. ETS, API, SASB and Ipieca. We continue to improve data quality including those with respect to equipment inventories and estimation or measurement of GHG emissions. The uncertainty associated with APA's emissions estimates depends on variation in the processes and operations, the availability of sufficient representative data, the quality of available data, and the methodologies used for measurement and estimation. We intend to continue to update our emissions estimates, in accordance with applicable standards, in the event of significant changes as additional data become available, or estimation methodologies are refined, and to reflect significant changes to APA's assets, operations or emissions boundaries. APA has endeavoured to estimate direct GHG emissions from our operations (Scope 1) and indirect emissions associated with the generation by others of electricity that we purchase for use in our operations (Scope 2)."
+        },
+        {
+            "page": 10,
+            "quotation": "GHD, a privately owned global professional services company, is verifying all measurement frameworks and reported attainment levels associated with the goal of eliminating at least 1 million tonnes of annualised carbon dioxide equivalent (CO₂e) by the end of 2024. The verification process includes regular meetings between APA and GHD to review the projects and data."
+        }
+    ],
+    "note": "criteria 3,4,5 — 3 of 5. Criterion 1 (quantitative): not satisfied — F1 spans contain methodology declarations and estimation approach descriptions but no new quantitative performance metric; numerical figures cited in these spans (Scope 1, Scope 2 boundary descriptions) are scope identifiers, not data points. Criterion 2 (target-bound): not satisfied — the F1 methodology disclosure is not itself linked to a named target with baseline and target year. Criterion 3 (methodology): satisfied — four named reporting frameworks declared at report level (GRI SRS core, IPIECA/API/IOGP voluntary guidance, SASB O&G E&P, TCFD); GHG estimation approach described as a combination of measured and estimated data; multiple regulatory standards named for cross-geography application (U.S. EPA, U.K. ETS, API, SASB, Ipieca); Scope 1 and Scope 2 boundary distinction stated; 2023 calendar year as reporting period. Cross-cutting test (v1.3): this methodology disclosure applies across ≥2 canonical concepts — GRI and IPIECA framing applies to M1, O1, O2, O7, S1, S3, and S4 simultaneously; the GHG estimation note on p.167 applies across M1, O1, O2, and M5. F1 trigger is satisfied. Criterion 4 (time horizon): satisfied — reporting period stated as 2023 calendar year 'unless otherwise noted' (p.10); GHG estimates 'as of December 31, 2023' (p.167). Criterion 5 (progress tracking as restatement policy): satisfied — p.167 states update/restatement trigger conditions: 'in the event of significant changes as additional data become available, or estimation methodologies are refined, and to reflect significant changes to APA's assets, operations or emissions boundaries.' This constitutes a disclosed restatement and methodology-update policy analogous to the F1 handbook positive example ('Restatements are applied when a structural change exceeds 5%'). uncertainty_discussed = true: p.167 explicitly names four uncertainty sources: (1) process/operations variation, (2) availability of sufficient representative data, (3) data quality, (4) methodologies used for measurement and estimation. assured = false: GHD on p.10 is named as verifier for the 1M tonne goal specifically (M5/S4 boundary), not as external assurer of the full report or of the F1 methodology content; full report-level external assurance (if any) belongs to F2. Internal review by CRG&N Committee and Internal Audit (p.10) is internal governance, not F2-level assurance. Boundary: single-concept methodology disclosures (e.g., EPA Subpart W for M1 on p.38; OGI/LDAR for O1 on p.36; SIR/LTIR definitions for O7 on p.83) are captured as methodology_disclosed = true on those individual concepts and are NOT re-coded to F1. Only the cross-cutting framework declarations (p.10) and report-level GHG estimation note (p.167) satisfy the ≥2-concept trigger.",
+    "temporal_mode": "static",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

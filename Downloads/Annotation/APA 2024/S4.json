@@ -1,0 +1,38 @@
+{
+    "report_id": "APA_2024",
+    "company_id": "APA",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "S4",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": true,
+        "target_linked": true,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 2, 3, 4, 5],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 134,
+            "quotation": "Our efforts are focused on reducing Scope 1 and Scope 2 emissions from our oil and gas operations. In 2023, we made significant progress in deploying emissions reduction projects across our assets, in furtherance of our LTIC goal to eliminate 1 million tonnes of annualized CO₂e emissions by year-end 2024. We are using cleaner-burning natural gas and electricity as alternatives to diesel to power our field operations where practicable, which reduces diesel fuel consumption and localized air emissions."
+        },
+        {
+            "page": 140,
+            "quotation": "We strive for continuous improvement in our operational processes to further lower costs, reduce our environmental footprint and optimize capitalization of natural gas in a lower-carbon energy future, including by: Our commitment to reducing GHG emissions; Employing leak detection and repair programs, using the latest equipment and technologies, to reduce methane losses; Addressing GHG emissions from our operations through the elimination of routine flaring and by powering our equipment with utility grid electricity where practicable; Working to address the potential physical impacts to our operations posed by climate change. For example, to mitigate the risk of reduced fresh water supplies critical to our operations (as well as to conserve those resources), we are continuing efforts to optimize water recycling, especially in areas already deemed water-scarce; Collaborating with industry, governmental and nongovernmental partners to encourage others in our industry to reduce emissions and to develop more effective technologies to do so, including: As a partner in the Oil & Gas Methane Partnership 2.0 part of the U.N. Environment Programme, a group focused on methane emissions reduction and improving the accuracy and transparency of methane emissions reporting; As a founding member of the ONE Future Coalition, a group of more than 40 companies across the natural gas value chain that is focused on reducing methane emissions; As a member of the American Petroleum Institute's The Environmental Partnership, a group of U.S. oil and gas companies working to address environmental challenges and further improve environmental performance in our industry."
+        },
+        {
+            "page": 140,
+            "quotation": "We also introduced a longer-term goal to reduce our companywide Scope 1 GHG emissions intensity 10%–15% by 2030, with a near-term, compensation-linked milestone to achieve a minimum 5% reduction by year-end 2025. We have achieved our 2022 flaring goal and 2023 pneumatic controller goal, and we are on track to meet the remaining goals slated for achievement in 2024, 2025 and by 2030."
+        }
+    ],
+    "note": "criteria 1,2,3,4,5 — 5 of 5. Criterion 1 (quantitative): 1M tonne annualised CO₂e goal by 2024 (LTIC); 2,000+ pneumatic devices converted in 2023; 10–15% GHG intensity reduction by 2030; ≥5% near-term milestone by 2025; 50% methane intensity reduction by 2026 vs 2021 baseline (cross-reference M5). Criterion 2 (target-bound): transition strategy explicitly tied to 2022 LTIC compensation plan (2024 goal), GHG intensity target (2030) with near-term milestone (2025), and methane intensity target (2026 vs 2021 baseline). Criterion 3 (methodology): named technology pathways — LDAR/OGI programme, electrification of field operations, flare-to-power conversion (Egypt), pneumatic device retrofit to instrument air or valve, diesel substitution with natural gas/grid electricity; GHD named as third-party consultant for project verification; OGMP 2.0 and ONE Future Coalition as measurement and accountability frameworks. These constitute a disclosed operational methodology for achieving decarbonisation. Criterion 4 (time horizon): multiple explicit forward horizons — 2024 (1M tonne LTIC), 2025 (near-term intensity milestone), 2026 (methane intensity), 2030 (GHG intensity) — with 'near-term' and 'longer-term' labels assigned. Criterion 5 (progress tracking): 2022 LTIC progress confirmed 'on track'; 2022 flaring goal achieved; 2023 pneumatic controller goal achieved; all three 2023 ESG incentive compensation goals achieved (p.26); year-over-year pneumatic conversion progress (1,448 tonnes CH₄ reduction 2022–2023) demonstrates multi-year implementation tracking. Boundary: emissions targets themselves (quantified % reductions, baseline/target years) are coded primarily to M5. S4 here captures the strategic plan, technology pathways, and implementation progress. Overlap with O1/O2 (methane and flaring programmes): these are counted as S4 evidence because they are part of the company's response strategy, consistent with the S4 annotation question. trend_disclosed = false: multi-year implementation progress described but no multi-year performance metric series with anchor + 2 prior years is within the selected spans (that data is in M1/O1). Cross-concept note: S4 and M5 share the GHG intensity target language; S4 is coded here for the *plan* dimension; M5 carries the *target specification*.",
+    "temporal_mode": "longitudinal",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

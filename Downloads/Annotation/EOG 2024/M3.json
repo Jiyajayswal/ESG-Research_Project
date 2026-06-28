@@ -1,0 +1,38 @@
+{
+    "report_id": "EOG_2024",
+    "company_id": "EOG",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "M3",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": false,
+        "target_linked": false,
+        "trend_disclosed": true,
+        "assured": false,
+        "uncertainty_discussed": true,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 3, 4, 5],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 6,
+            "quotation": "Scope 3 GHG Emissions5 Million metric tons CO2e 127.0 118.0 110.3 — —"
+        },
+        {
+            "page": 76,
+            "quotation": "EOG's Scope 3, Category 11: Use of Sold Products GHG emissions from U.S. and Trinidad operations, which represents the largest source of Scope 3 emissions for the company. To estimate EOG's indirect GHG emissions from the use of sold products on an equity basis, we follow IPIECA's Scope 3 guidance document, Estimating Petroleum Industry Value Chain (Scope 3) Greenhouse Gas Emissions. This includes estimating end use combustion emissions associated with oil, natural gas liquids, and natural gas sales volumes, using the most recently available refinery output data from the U.S. Energy Information Administration for the given year, emissions factors from the American Petroleum Institute's (API) Compendium of Greenhouse Gas Emissions Methodologies for the Natural Gas and Oil Industry, and total wellhead volumes reported in our Annual Report on Form 10-K for the given year."
+        },
+        {
+            "page": 76,
+            "quotation": "Because Scope 3 emissions are, by definition, the direct emissions of another entity and beyond the control of EOG, emissions estimates are subject to uncertainty resulting from variability and lack of standardization in emission calculation methodologies, assumptions, and data sources. Additionally, there is inconsistency in emissions estimates related to the potential for double-counting between categories and across companies and industries (see IPIECA's Scope 3 guidance document for further description)."
+        }
+    ],
+    "note": "criteria 1, 3, 4, 5 — 4 of 5. Criterion 1 (quantitative grounding) satisfied: Scope 3 Category 11 emissions reported at 127.0 Mt CO2e (2024), 118.0 (2023), and 110.3 (2022) million metric tons CO2e with explicit units on p.6. Criterion 2 (target-bound) not satisfied: no Scope 3 reduction target with a baseline year and target year is disclosed anywhere in the report; EOG's near-term emissions targets and net zero ambition (p.21, p.34) cover Scope 1 and Scope 2 only. Criterion 3 (methodology disclosed) satisfied: p.76 explicitly states the calculation methodology — equity basis, IPIECA Scope 3 guidance document, end-use combustion approach, API Compendium emission factors, EIA refinery output data, and wellhead volumes from the 10-K; this constitutes a multi-source, named methodology satisfying the handbook criterion requiring calculation approach and boundary statement. Criterion 4 (time horizon) satisfied: the 2024 reporting year is explicit as anchor year; the three-year column series (2024, 2023, 2022) on p.6 provides the time horizon context; 2021 and 2020 are shown as dashes, indicating Scope 3 disclosure was initiated in 2022 reporting year. Criterion 5 (progress tracking) satisfied: anchor year 2024 (127.0) plus two prior years 2023 (118.0) and 2022 (110.3) exactly meets the handbook threshold of anchor year plus at least two prior years; this is the minimum qualifying series. Category coverage note: EOG discloses only Category 11 (Use of Sold Products), explicitly stating it represents the largest Scope 3 source; other categories are not reported; per handbook pitfall, Category 11 disclosure does not constitute full Scope 3 coverage — this limitation is accurately reflected in the note and does not affect the criteria count since no criterion requires exhaustive category coverage. uncertainty_discussed set true: p.76 contains explicit acknowledgment of estimation uncertainty, naming three sources — variability in calculation methodologies, inconsistency in assumptions and data sources, and potential for double-counting between categories. assured set false: p.11 states 2024 Scope 3 data were verified at limited assurance by independent third party; p.83 similarly references 'internationally recognized certification body'; neither span names the assurer, and the handbook requires a named third-party provider in the selected span. Cross-concept note: span 1 row is adjacent to M1 Scope 1 data in the same tear sheet table; the Scope 3 figure is on an equity basis (per p.76) while M1 Scope 1 is on a gross operated basis — boundary distinction noted.",
+    "temporal_mode": "longitudinal",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

@@ -1,0 +1,38 @@
+{
+    "report_id": "EOG_2024",
+    "company_id": "EOG",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "M1",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": false,
+        "target_linked": false,
+        "trend_disclosed": true,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 3, 4, 5],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 6,
+            "quotation": "Greenhouse Gas Emissions\nU.S. GHG Emissions\nScope 1 GHG Emissions Million metric tons CO2e 5.9 5.6 5.1 5.0 4.5\nScope 2 GHG Emissions Million metric tons CO2e 0.4 0.4 0.4 0.4 0.4\nU.S. Scope 1 GHG Emissions by Constituent Gas\nCarbon Dioxide (CO2) Million metric tons CO2e 5.6 5.3 4.9 4.7 4.2\nMethane (CH4) Million metric tons CO2e 0.3 0.2 0.2 0.2 0.3\nNitrous Oxide (N2O) Million metric tons CO2e 0.003 0.004 0.003 0.003 0.003\nU.S. Scope 1 GHG Emissions by Source\nCombustion Million metric tons CO2e 5.3 4.9 4.3 4.1 3.6\nFlaring Million metric tons CO2e 0.4 0.4 0.4 0.6 0.5\nPneumatics Million metric tons CO2e 0.03 0.03 0.02 0.05 0.1\nOther Sources Million metric tons CO2e 0.2 0.2 0.2 0.3 0.2\nU.S. Scope 1 GHG Intensity\nGHG Intensity Rate Metric tons CO2e/MBoe 13.2 13.2 13.3 14.0 13.6"
+        },
+        {
+            "page": 75,
+            "quotation": "Unless otherwise indicated, the metrics in this report present the total Scope 1 emissions for the specified gas(es) associated with EOG's gross operated U.S. onshore production, gathering and boosting, and gas processing segment sources, as reported to the U.S. Environmental Protection Agency (EPA) pursuant to the EPA Greenhouse Gas Reporting Program. They also include emissions that are subject to the EPA Greenhouse Gas Reporting Program but are below the basin reporting threshold and would otherwise go unreported."
+        },
+        {
+            "page": 75,
+            "quotation": "The emissions data have been converted to a carbon dioxide equivalent (CO2e) — the conversion to CO2e accounts for the higher global warming potential (GWP) of methane and nitrous oxide compared to carbon dioxide. The 100-year GWP of methane is 28 and nitrous oxide is 265."
+        }
+    ],
+    "note": "criteria 1, 3, 4, 5 — 4 of 5. Criterion 1 (quantitative grounding) satisfied: U.S. Scope 1 GHG emissions reported at 5.9 million metric tons CO2e for 2024 with explicit units, broken down by constituent gas (CO2, CH4, N2O) and by source (combustion, flaring, pneumatics, other), with GHG intensity rate of 13.2 metric tons CO2e/MBoe. Criterion 2 (target-bound) not satisfied: no selected span explicitly links the reported Scope 1 figure to a named reduction target with baseline and target year; per handbook pitfall, target content belongs to M5 and is not attributed to M1 unless the same span makes the linkage explicit — the tear sheet data on p.6 contains no such linkage. Criterion 3 (methodology disclosed) satisfied: p.75 states the reporting boundary as EOG's gross operated U.S. onshore production, gathering and boosting, and gas processing segment sources, calculated pursuant to EPA Greenhouse Gas Reporting Program (40 CFR Part 98, Subparts C and W); GWP factors are explicitly stated (CH4 = 28, N2O = 265 on 100-year basis per IPCC 2014); this satisfies both boundary definition and emission factor source per handbook criterion 3 for M1. Criterion 4 (time horizon) satisfied: the tear sheet column headers 2024–2020 establish the explicit five-year reporting period; the 2024 anchor year is the stated reporting period. Criterion 5 (progress tracking) satisfied: U.S. Scope 1 GHG emissions for 2024 (5.9), 2023 (5.6), 2022 (5.1), 2021 (5.0), and 2020 (4.5) million metric tons CO2e are present in span 1 — anchor year plus four prior years exceeds the minimum requirement of anchor year plus two prior years. Boundary call: Total Scope 1 GHG Emissions (p.6, footnote 4) includes U.S. and Trinidad operations at 6.0 Mt CO2e for 2024; U.S.-only is 5.9 Mt CO2e. Spans are anchored to U.S. gross operated basis (consistent with M1 operational boundary). Equity-share basis is not separately disclosed, which would belong to M2. assured set false: footnote 3 on p.7 references 'independent third-party verification and assurance' and p.83 elaborates 'an internationally recognized certification body' per ISO 14064-3:2019, but no named assurer appears anywhere in the report; handbook rule requires a named third-party provider in the selected span. forward_looking and target_linked both set false per handbook pitfall: selected spans contain only historical emissions data and methodology; emissions targets belong to M5. Cross-concept note: span 1 constituent gas breakdown (CH4 column) also supports O1; source breakdown (flaring row) also supports O2.",
+    "temporal_mode": "longitudinal",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

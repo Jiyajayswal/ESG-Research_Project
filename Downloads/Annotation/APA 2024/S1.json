@@ -1,0 +1,38 @@
+{
+    "report_id": "APA_2024",
+    "company_id": "APA",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "S1",
+    "presence": "PARTIAL_DISCLOSURE",
+    "attributes": {
+        "quantitative": false,
+        "methodology_disclosed": true,
+        "forward_looking": true,
+        "target_linked": false,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [3, 4],
+    "confidence": "Medium",
+    "spans": [
+        {
+            "page": 138,
+            "quotation": "Climate-related transition risks — Changes in Regulation: Introduction of carbon taxes or cap and trade in U.S. Long Term — Changes in asset base; Federal oil and gas permit ban Medium Term — Decreased asset diversification; More stringent emissions regulations Near Term — Increased use of technology, including electrification and enhanced oil recovery (EOR); Alignment with Paris Agreement Long Term. Changes in National Policies: Biden Administration's Climate Pledge Near Term — Shift in operational areas; U.K. Carbon Budget Near Term — Enhanced water recovery and reuse; National hydraulic fracturing bans Long Term — Increased community engagement and reporting; National water policies on freshwater usage limits Long Term — Stranded assets."
+        },
+        {
+            "page": 139,
+            "quotation": "Climate-related physical risks — Acute — Onshore: Severe temperature changes affecting our operations (e.g., 2021 Winter Storm Uri) Near Term — Enhanced requirements for asset hardening; Seasonal droughts affecting our operations Medium Term — Increased focus on emergency contingency planning and preparation; Tornadoes or other severe storms affecting our operations Near Term — Damage to assets and communities. Offshore: Hurricanes and tropical storms affecting our operations Near Term — Changes in population distribution and settlement patterns; Shrinking of local economies; Decreased access to local talent. Chronic — Onshore: Changes in rainfall or water patterns affecting our operations Long Term — Operational disruptions due to supply chain or impairment of crew-change operations due to weather events; Extended droughts and extended temperatures affecting our operations Medium Term — Damage to equipment or impaired access to offshore platforms; Changes in water availability patterns affecting our operations (surface water and groundwater) Long Term — Increased additional operational expenses and insurance requirements for offshore or nearshore operations; Biodiversity and species listings affecting our operations Long Term — Rising sea levels affecting our operations; Sea temperature change and current-related changes affecting our operations Long Term."
+        },
+        {
+            "page": 139,
+            "quotation": "Climate-related opportunities — Resource Efficiency: Transportation fuel-related improvements (in miles-per-gallon ratings) Long Term — Additional product delivered to market; Improved resource capture due to reduced GHG emissions Near Term — Project economies that increase the potential to expand operations; Increased recovery of hydrocarbons from the reservoir Medium Term — Decreased emissions within company vehicle fleet and operations equipment. Energy Source: Increased demand for natural gas for power generation Medium Term — Collaboration with midstream and downstream companies; Development of economic demand for hydrogen and hydrogen-based technologies Medium Term — Increased expectations for enhanced reliability."
+        }
+    ],
+    "note": "criteria 3,4 — 2 of 5. Criterion 1 (quantitative): not satisfied — individual risks and opportunities are described with qualitative impact categories ('Changes in asset base', 'Stranded assets') but no numerical financial magnitude (e.g., dollar exposure, production percentage affected) is attached to individual risks in the S1 spans. Scenario-driven quantitative outputs (break-even prices, carbon pricing, demand projections) reside in the S3 analysis section and are correctly coded to S3, not S1. Criterion 2 (target-bound): not satisfied — the risk/opportunity identification disclosure is not linked to a named emissions target with baseline and target year within these spans. Criterion 3 (methodology): satisfied — structured risk taxonomy disclosed across transition (Policy & Legal, Technology & Market, Reputation, Stigma of Fossil Fuels) and physical (acute/chronic, onshore/offshore) categories with explicit time-horizon classification keys (Near Term = 1–2 years, Medium Term = 3–5 years, Long Term = 5+ years). The categorisation framework constitutes a disclosed risk identification methodology. Criterion 4 (time horizon): satisfied — all risks and opportunities are tagged Near/Medium/Long Term using the defined key on the table headers. Criterion 5 (progress tracking): not satisfied — the risk tables are presented as a static snapshot with no comparative prior-period risk taxonomy or quantitative directional change. Confidence = Medium: criterion 1 call requires judgment — the operational impact descriptions are specific and named (e.g., Winter Storm Uri, UK EPL) but do not reach the financial magnitude threshold. The tables on pp.138–139 are the primary S1 evidence; the TCFD intro narrative (p.134) provides framing context. Boundary: scenario-based risk analysis on pp.136–137 (IEA STEPS/APS/NZE with break-even prices) is coded to S3. Response actions (electrification, flare reduction, LDAR) are coded to S4. forward_looking = true: all identified risks and opportunities are prospective by definition.",
+    "temporal_mode": "mixed",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

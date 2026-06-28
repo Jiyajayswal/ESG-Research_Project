@@ -1,0 +1,38 @@
+{
+    "report_id": "COP_2024",
+    "company_id": "COP",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "M3",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": false,
+        "target_linked": false,
+        "trend_disclosed": true,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 3, 4, 5],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 33,
+            "quotation": "We calculate Scope 3 emissions using the Greenhouse Gas Protocol and the Ipieca 2016 Estimating Petroleum Industry Value Chain (Scope 3) Greenhouse Gas Emissions methodologies based on net equity production numbers. We report the four largest categories of Scope 3 emissions that apply to our operations. Scope 3 emissions include CO2, methane (as CO2e) and nitrous oxide (as CO2e) for the four material categories of Scope 3 emissions that apply to our operations."
+        },
+        {
+            "page": 33,
+            "quotation": "We conservatively calculate the other three categories of Scope 3 emissions by taking our entire equity volume of crude and natural gas and applying the relevant transportation, distribution and processing emissions factors from academic life cycle analyses, including the 2022 S&P Global \"The Right Measure: A Guidebook to Crude Oil Life-cycle GHG Emissions Estimation,\" and the 2024 National Petroleum Council \"Charting the Course: Reducing Greenhouse Gas Emissions from the U.S. Natural Gas Supply Chain.\" In 2024, Scope 3 emissions increased in line with overall net production."
+        },
+        {
+            "page": 84,
+            "quotation": "5.1 Indirect GHG Emissions from Use of Sold Products (Category 11) million metric tons CO2e 197.6 207.9 217.9 235.0"
+        }
+    ],
+    "note": "criteria 1, 3, 4, 5 — 4 of 5. Criterion 1 satisfied by four-year Category 11 series (197.6 / 207.9 / 217.9 / 235.0 million tonnes CO2e, 2021–2024) in API template (page 84) and 2024 category breakdown on page 33 (upstream transportation: 2, downstream transportation: 7, processing of sold products: 17, use of sold products: 236 MM tonnes CO2e). Criterion 2 not satisfied: no Scope 3 reduction target with baseline and target year is stated anywhere in the report. Criterion 3 satisfied by GHG Protocol and Ipieca 2016 methodology (Span 1, page 33) and named emission factor sources for the other three categories — S&P Global 2022 and NPC 2024 (Span 2, page 33). Criterion 4 satisfied by stated 2024 reporting period. Criterion 5 satisfied by four-year Category 11 trend (2021–2024) in API template (page 84). Category coverage note: four categories reported — upstream transportation (Cat 9), downstream transportation (Cat 10), processing of sold products (Cat 4/10), use of sold products (Cat 11); four-category multi-year series available only for Cat 11 in the API template. uncertainty_discussed = false: the double-counting caution in the API template header is a framing disclaimer, not a named estimation uncertainty within a selected span. assured = false: LRQA named on page 85 but not within any selected span explicitly linked to Scope 3 data. Boundary note: Scope 3 basis is net equity (page 33), distinguishing it from M1 gross operated basis.",
+    "temporal_mode": "longitudinal",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

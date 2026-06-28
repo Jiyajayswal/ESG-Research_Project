@@ -1,0 +1,38 @@
+{
+    "report_id": "APA_2024",
+    "company_id": "APA",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "M1",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": false,
+        "target_linked": false,
+        "trend_disclosed": true,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 3, 4, 5],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 128,
+            "quotation": "Operated emissions¹·² (Scope 1) Thousand tCO₂e 5,962 5,679 6,255 6,290 7,300 — Carbon dioxide Thousand tCO₂e 5,050 4,703 4,831 4,830 5,600 — Methane Thousand tCO₂e 879 945 1,389 1,410 1,650 — Nitrous oxide Thousand tCO₂e 33 31 35 50 50 Operated direct emissions (Scope 1) by source — Flaring Thousand tCO₂e 1,573 1,409 1,477 1,480 2,060 — Venting Thousand tCO₂e 575 576 690 420 430 — Fuel combustion Thousand tCO₂e 3,635 3,495 3,548 3,550 3,790 — Fugitives Thousand tCO₂e 179 199 541 830 1,020"
+        },
+        {
+            "page": 38,
+            "quotation": "We monitor a range of emission sources — including combustion, flaring, venting and fugitive emissions — to determine our overall GHG inventory. As a global company, we report under multiple regulatory frameworks. These include the U.S. Environmental Protection Agency (EPA) Subpart W GHG reporting protocol in the U.S., the API Compendium of GHG emissions for the Natural Gas and Oil Industry in Egypt, and the U.K. Emissions Trading Scheme for our North Sea operations. Since APA does not direct or control the end use of our produced oil and gas, we exclude the calculation of Scope 3 emissions, which are dominated by category 11: use of sold products."
+        },
+        {
+            "page": 38,
+            "quotation": "The GHGs included in our GHG inventory calculations are carbon dioxide (CO₂), methane (CH₄) and nitrous oxide (N₂O). Consistent with the Intergovernmental Panel on Climate Change's Fourth Assessment Report, we assign a 100-year global warming potential (GWP) to each of these component gases as part of our GHG inventory calculation. These values are 1 for CO₂, 25 for CH₄ and 298 for N₂O. The mass of each component gas multiplied by its GWP results in a calculated value of carbon dioxide equivalents (CO₂e) for that component."
+        }
+    ],
+    "note": "criteria 1,3,4,5 — 4 of 5. Criterion 1 (quantitative): 5-year Scope 1 total (2019–2023) in thousand tCO₂e with gas-species and source-level breakdown in KPD table (p.128). Criterion 2 (target-bound): not satisfied — the KPD table and methodology spans do not co-locate with a named reduction target; targets are disclosed separately on p.38 left column and are captured under M5. Per handbook, target_bound on M1 requires the same span to explicitly link the reported figure to a named target. Criterion 3 (methodology): satisfied — EPA Subpart W (U.S.), API Compendium (Egypt), UK ETS (North Sea) all named; IPCC AR4 GWPs stated (CO₂=1, CH₄=25, N₂O=298); operational-control boundary (operated basis) explicit. Criterion 4 (time horizon): 2023 anchor year and 2019–2023 longitudinal window both evident from table columns. Criterion 5 (progress tracking): 5-year Scope 1 trend available (anchor 2023 + 4 prior years 2019–2022) satisfying multi-year progress requirement. Boundary: Scope 2 (221 thousand tCO₂e, 2023) is separately disclosed in the same table row 'Operated indirect emissions (Scope 2)' and is not included in spans; no M1/M2 conflation. Scope 3 explicitly excluded — note carried to M3 annotation. assured = false: assurance is disclosed elsewhere (ERM CVS referenced in report) but no named assurer is linked to these specific Scope 1 spans. forward_looking = false and target_linked = false: spans contain only historical data and methodology.",
+    "temporal_mode": "longitudinal",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

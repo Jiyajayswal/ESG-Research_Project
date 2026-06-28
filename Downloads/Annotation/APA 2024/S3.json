@@ -1,0 +1,38 @@
+{
+    "report_id": "APA_2024",
+    "company_id": "APA",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "S3",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": true,
+        "target_linked": false,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": true,
+        "scenario_linked": true
+    },
+    "criteria_met": [1, 3, 4],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 134,
+            "quotation": "In this 2024 Sustainability Report we have updated our scenario analysis, using the 2023 International Energy Agency (IEA) World Energy Outlook (WEO) scenarios against which to disclose our performance. Our updated analysis includes the following IEA scenarios from the 2023 WEO report, against which we compare our internal APA base-case scenario: the Stated Policies Scenario (STEPS) and the Announced Pledges Scenario (APS). In addition, even though we do not currently have a commitment on net zero, we also present the Net Zero Emissions by 2050 (NZE) scenario in this year's analysis."
+        },
+        {
+            "page": 136,
+            "quotation": "APA base-case scenario — APA's own base-case scenario takes a conservative approach to future oil pricing, with an 18-year average blended oil price that is most closely aligned with the WEO's Announced Pledges Scenario (APS). Our 18-year average blended oil price, discounted for fees projected to be associated with the U.K. Emissions Trading Scheme in the North Sea and the WEC in the U.S., is $52 per blended West Texas Intermediate (WTI)/Brent barrel (Bbl). Our base-case scenario is a quantification of our business perspective, utilizing an internal oil pricing deck that builds in an anticipated carbon price under the U.K. emissions trading scheme, such that our WTI/Brent blended pricing accounts for the assumption of a carbon tax on our U.K. production. To account for recent regulation in the U.S., a WEC fee is applied to forecasted future production in the U.S. As defined by the IEA's WEO, Egypt is classified as an emerging market country in the area of developing economies; therefore, no carbon pricing is assumed until 2030, escalating to $17/tonne for Egypt production barrels in 2040."
+        },
+        {
+            "page": 137,
+            "quotation": "Our scenario-planning analysis positively supports that the break-even prices referenced in each of APA's core development areas of operation indicate the long-term potential for generating positive returns. The STEPS, APS and NZE scenarios' projected oil and natural gas demand and carbon emissions through 2050 are shown in the charts on p. 141. The following tables provide a summary of key climate-related risks and opportunities, and their timeframes, that we have identified and are working to address now and into the future."
+        }
+    ],
+    "note": "criteria 1,3,4 — 3 of 5. Criterion 1 (quantitative): satisfied — APA base-case blended price $52/bbl stated; Egypt carbon price escalating to $17/tonne by 2040; STEPS oil prices $98→$85→$83/bbl (2022→2030→2050); NZE oil price $42/bbl in 2030, $25/bbl in 2050; APS oil demand declining to 92.5 mb/d by 2030; break-even prices per operating area: Egypt $34, APA Permian $33, North Sea $37; IEA APS avg 2024–2040 $36, STEPS $65 (chart p.137). Criterion 2 (target-bound): not satisfied — scenario analysis is not linked to a named emissions reduction target with baseline and target year within these spans. Criterion 3 (methodology): satisfied — IEA WEO 2023 source explicitly cited; three named scenarios (STEPS, APS, NZE) defined with differentiated carbon pricing assumptions by geography; 18-year analysis horizon stated; internal APA base case described and benchmarked against external scenarios; third-party break-even assessors named (Wood Mackenzie, Enverus referenced in footnote); scenario updated annually. Criterion 4 (time horizon): satisfied — analysis runs to 2040 (primary) and 2050 (NZE); 18-year horizon explicitly stated; near/medium/long term framing consistent with S1 tables. Criterion 5 (progress tracking): not satisfied — scenario projections are forward-looking outputs, not a performance trend; per handbook, trend_disclosed = false for S3. scenario_linked = true: IEA WEO STEPS, APS, and NZE are named scenarios from the allowed list. uncertainty_discussed = true: p.134 states 'it is challenging to accurately assess scenario outcomes beyond a five-year time horizon, given the number and unpredictability of variables'; dynamic nature of oil pricing and regulatory uncertainty explicitly acknowledged. Boundary: scenario outputs informing investment resilience are coded here (S3); strategic responses to those outputs belong to S4. Risk categories informed by scenarios are also reflected in S1 tables but without scenario attribution in those spans. assured = false: no named external assurer linked to scenario analysis methodology.",
+    "temporal_mode": "mixed",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

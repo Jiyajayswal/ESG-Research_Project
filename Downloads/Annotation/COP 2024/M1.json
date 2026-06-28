@@ -1,0 +1,38 @@
+{
+    "report_id": "COP_2024",
+    "company_id": "COP",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
+    "concept_id": "M1",
+    "presence": "SUBSTANTIVE_DISCLOSURE",
+    "attributes": {
+        "quantitative": true,
+        "methodology_disclosed": true,
+        "forward_looking": false,
+        "target_linked": false,
+        "trend_disclosed": true,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [1, 3, 4, 5],
+    "confidence": "High",
+    "spans": [
+        {
+            "page": 72,
+            "quotation": "Total Scope 1 Emissions 15,500 17,720 15,008 16,432 15,507 305-1 CCE-4 EM-EP-110a.1"
+        },
+        {
+            "page": 23,
+            "quotation": "In support of our company reporting practices that are based on the data principles from the World Resources Institute Greenhouse Gas Protocol Corporate Accounting and Reporting Standard. SCOPE 1 — Direct GHG emissions from sources owned or controlled by ConocoPhillips."
+        },
+        {
+            "page": 24,
+            "quotation": "In 2024, we updated our methodology and adjusted the global warming potential (GWP) value used for our emissions calculations. GWP values, published by the IPCC, are used to convert methane and nitrous oxide emissions to carbon dioxide equivalents (CO2e). We used the IPCC Fifth Assessment Report (AR5) for this conversion; the Fourth Assessment Report was used previously. This adjustment was made to align with most reporting methodologies used in the regions we operate, and is aligned with the GHG Protocol."
+        }
+    ],
+    "note": "criteria 1, 3, 4, 5 — 4 of 5. Criterion 1 satisfied by Total Scope 1 Emissions figure of 15,507 thousand tonnes CO2e (2024) in the performance table (page 72). Criterion 2 not satisfied: no selected span links the Scope 1 absolute figure to a named target with baseline and target year; the 50–60% intensity reduction target covers Scope 1+2 combined intensity and belongs primarily to M5. Criterion 3 satisfied by WRI GHG Protocol standard (page 23 footnote), operational control boundary, and IPCC AR5 GWP conversion factors (page 24). Criterion 4 satisfied by stated reporting period January 1 to December 31, 2024 (page 24). Criterion 5 satisfied by five-year Total Scope 1 series (2020–2024) in the performance table (page 72): 15,500 / 17,720 / 15,008 / 16,432 / 15,507 thousand tonnes CO2e. Boundary note: net equity GHG data on page 72 belongs to M2, not M1, and was not selected. Combined Scope 1+2 intensity targets belong to M5. assured = false because LRQA Inc. is named on page 85 but that page was not selected as a span; assurance is not explicitly linked to Scope 1 within any selected span.",
+    "temporal_mode": "longitudinal",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
+}

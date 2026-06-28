@@ -1,0 +1,29 @@
+{   
+    "report_id":"REPORT ID",
+    "company_id": "COMPANY ID",
+    "anchor_year": -1,
+    "annotator_id": "Joshua Choong",
+    "concept_id": "O7",
+    "presence":    "PARTIAL_DISCLOSURE",   
+    "attributes": 
+        {   "quantitative": false,
+            "methodology_disclosed": false, 
+            "forward_looking": false, 
+            "target_linked": false,     
+            "trend_disclosed": false, 
+            "assured": false, 
+            "uncertainty_discussed": false, 
+            "scenario_linked":  false   
+        }, 
+
+    "confidence":  "High",   
+    "spans": [ 
+        { "page": 0, "quotation": "" },
+        { "page": 0, "quotation": "" },
+        { "page": 0, "quotation": "" }
+        ],
+    "note":  "free text — boundary calls, cross-section notes, ambiguity",
+    "temporal_mode":    "mixed", 
+    "impact_material":  false,
+    "framework_tags_pending_adjudication":  "no"
+}
