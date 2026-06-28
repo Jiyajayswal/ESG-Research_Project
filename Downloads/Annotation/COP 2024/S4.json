@@ -1,29 +1,38 @@
-{   
-    "report_id":"REPORT ID",
-    "company_id": "COMPANY ID",
-    "anchor_year": -1,
-    "annotator_id": "Joshua Choong",
+{
+    "report_id": "COP_2024",
+    "company_id": "COP",
+    "anchor_year": 2024,
+    "annotator_id": "Jiya Jayswal",
     "concept_id": "S4",
-    "presence":    "PARTIAL_DISCLOSURE",   
-    "attributes": 
-        {   "quantitative": false,
-            "methodology_disclosed": false, 
-            "forward_looking": false, 
-            "target_linked": false,     
-            "trend_disclosed": false, 
-            "assured": false, 
-            "uncertainty_discussed": false, 
-            "scenario_linked":  false   
-        }, 
-
-    "confidence":  "High",   
-    "spans": [ 
-        { "page": 0, "quotation": "" },
-        { "page": 0, "quotation": "" },
-        { "page": 0, "quotation": "" }
-        ],
-    "note":  "free text — boundary calls, cross-section notes, ambiguity",
-    "temporal_mode":    "longitudinal", 
-    "impact_material":  false,
-    "framework_tags_pending_adjudication":  "no"
+    "presence": "PARTIAL_DISCLOSURE",
+    "attributes": {
+        "quantitative": false,
+        "methodology_disclosed": true,
+        "forward_looking": true,
+        "target_linked": false,
+        "trend_disclosed": false,
+        "assured": false,
+        "uncertainty_discussed": false,
+        "scenario_linked": false
+    },
+    "criteria_met": [3, 4],
+    "confidence": "Medium",
+    "spans": [
+        {
+            "page": 22,
+            "quotation": "Established in early 2021, our Low Carbon Technologies (LCT) organization's remit includes supporting operational emissions reductions objectives, monitoring global efforts to reduce emissions and prioritizing lower carbon opportunities for future competitive investment. In 2024 this included: Reducing operational emissions through monitoring, measurement, retrofits, new designs, and reporting at both a source and site level. Assessing the use of carbon capture and sequestration (CCS) to reduce our Scope 1 and Scope 2 emissions. Securing high-quality nature-based and technology offsets to mitigate residual, hard-to-abate emissions. Suspending our blue ammonia project on the Gulf Coast due to market immaturity and the pace required for commercial investment. Evaluating potential low carbon power projects including enhanced geothermal system opportunities, and exploring electrification efforts at many of our operations."
+        },
+        {
+            "page": 23,
+            "quotation": "In our Canada BU, the Surmont CCS initiative advanced with the completion of early stage engineering. Project efforts included definition of capture systems for boiler flue gas and the development of the technical and economic foundations. This initiative forms a cornerstone of our carbon capture strategy, supporting long-term emissions reductions and regulatory alignment in both base and future assets. Significant momentum was also achieved through our involvement in the Pathways Alliance CO\u2082 transportation and storage project. During the reporting period, engineering contributions and commercial support were provided to help progress a regional CCS project and support Canada's broader climate objectives."
+        },
+        {
+            "page": 32,
+            "quotation": "Another way we support technology development is through our annual marginal abatement cost curve (MACC) process which identifies and prioritizes our emissions reduction opportunities from operations based on the project's breakeven cost of carbon ($ per tonne CO2e reduced). This data helps identify projects that might become viable in the future through further research, development and deployment. As a result of this work, we have focused our near-term technology investments on reducing both costs and emissions where feasible."
+        }
+    ],
+    "note": "criteria 3, 4 — 2 of 5. Criterion 1 not satisfied: the selected spans describe transition activities and milestones (Surmont CCS early-stage engineering, LCT organisation 2024 activities, MACC prioritisation) but provide no specific capital expenditure figures in dollar terms or quantified CO2 capture volumes — the handbook flags absence of explicit capex allocation as the primary weakness for S4. Criterion 2 not satisfied: no S4-specific named target with baseline and target year in selected spans; GHG intensity targets belong to M5. Criterion 3 satisfied: Span 3 (page 32) describes the annual MACC process as the structured framework for identifying and prioritising decarbonisation investments using breakeven cost of carbon ($/tonne CO2e) as the decision metric — an explicit methodology statement for transition investment planning. Criterion 4 satisfied: Span 1 (page 22) references 2024 LCT activities and ongoing future evaluation; Span 2 (page 23) references Surmont CCS supporting long-term emissions reductions; near (2025) and medium (2030) milestones from the net-zero pathway table on page 33 anchor the horizon context. Criterion 5 not satisfied: no multi-year series of low-carbon capital spend or project progress data. Confidence Medium per handbook guidance: disclosure is rich in named technology pathways (CCS, EGS, electrification, offsets, MACC) and specific project milestones (Surmont engineering complete, blue ammonia suspended, Pathways Alliance progressed) but lacks explicit capex allocation figures that would satisfy Criterion 1 and push to SUBSTANTIVE. Cross-concept note: the S3 Span 3 portfolio capital allocation output (exiting deepwater, unconventional focus, 10 kg CO2e/BOE portfolio projection by 2030) is the strongest S4-relevant evidence in the report but was assigned to S3 to avoid span redundancy; assigning it to S4 would not change the PARTIAL label as Criterion 1 still lacks a dollar figure. LNG portfolio strategy (page 22, 30% PALNG stake, 10–15 MTPA aspiration) was not selected as S4 evidence because LNG is framed as traditional oil-and-gas business, not a low-carbon technology investment.",
+    "temporal_mode": "mixed",
+    "impact_material": false,
+    "framework_tags_pending_adjudication": "no"
 }
