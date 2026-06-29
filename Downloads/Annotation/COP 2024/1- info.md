@@ -1,15 +1,15 @@
-### Info - COP 2024 annotation 
+### COP 2024 Annotation Summary
 
----
-## Summary
+ConocoPhillips’ 2024 Sustainability Report is very strong overall, with detailed and data-heavy disclosures across most environmental sections. The emissions and safety areas (M1, O1, O2, O7) are especially strong and all achieved SUBSTANTIVE_DISCLOSURE, supported by five years of data (2020–2024), clear methods, and defined targets. The scenario analysis (S3) is also solid, using IEA scenarios (STEPS, APS, NZE) with quantified assumptions.
 
-ConocoPhillips produces a well-structured, disclosure-heavy sustainability report with strong quantitative depth across most environmental concepts. The emissions and safety sections (M1, O1, O2, O7) are among the richest in the dataset — all four scored SUBSTANTIVE_DISCLOSURE with multi-year performance tables covering five years (2020–2024), explicit methodology statements, and named targets. The climate strategy section (S3) is also strong, with three IEA named scenarios (STEPS, APS, NZE) and quantified oil price assumptions. The main weaknesses in this report are the absence of specific capex figures for low-carbon investments (limiting S4) and the lack of financial magnitudes in the risk table (limiting S1).
+The weaker areas are S1 and S4, where key quantitative details are missing.
 
 
-# S1 — PARTIAL_DISCLOSURE (Medium confidence):
 
- The three-tier risk taxonomy (near 1–5 / medium 6–10 / long-term 11+ years) with categorised transition and physical risks is well-evidenced. The critical gap is Criterion 1: all risk impacts are described qualitatively ("increased operational costs," "potential business interruption") with no specific financial magnitudes or quantified asset exposures. This is a firm judgment call. Additionally, scenario_linked = false for S1 because COP's four internal scenarios (Pre-Pandemic Trends, Moderate Transition, Accelerated Transition, 1.5 Net Zero) are proprietary constructs not on the handbook's IEA/IPCC/NGFS allowed list. The IEA STEPS/APS/NZE scenarios are referenced on page 18, but in the cost-of-supply context that was assigned to S3.
+### S1 — PARTIAL_DISCLOSURE (Medium confidence)
 
-# S4 — PARTIAL_DISCLOSURE (Medium confidence): 
- 
-The disclosure is rich in named technology pathways — a dedicated LCT organisation, Surmont CCS (early-stage engineering complete), Pathways Alliance participation, MACC process with $/tonne CO2e decision metric, EGS evaluation, electrification efforts, and a blue ammonia suspension decision. However, no specific capital expenditure figure for low-carbon investment is disclosed. Without a dollar amount for low-carbon capex, Criterion 1 cannot be satisfied and the label stays at PARTIAL per handbook guidance. The LNG portfolio expansion (30% stake in Port Arthur LNG, 10–15 MTPA aspiration) was deliberately excluded as S4 evidence: COP frames LNG as traditional oil-and-gas business, not a low-carbon technology investment. 
+The report clearly explains climate risks by time horizon (short, medium, long term) and risk type (transition and physical). However, impacts are only described in general terms (e.g., higher costs, disruptions) with no financial figures or quantified exposure. It also uses internal scenarios, not the required IEA/IPCC/NGFS ones, so it doesn’t fully meet criteria.
+
+### S4 — PARTIAL_DISCLOSURE (Medium confidence)
+
+There is strong detail on transition efforts like CCS projects, electrification, MACC analysis, and participation in industry initiatives. However, no specific dollar amount for low-carbon investment is provided. Because of this missing capex figure, it cannot qualify as full disclosure.

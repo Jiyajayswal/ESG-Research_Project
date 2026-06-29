@@ -1,6 +1,6 @@
 ### Info - APA 2024 Annotation
 
----
+
 ## Summary
 This file documents the full Tier 1 annotation pass of the APA Corporation 2024 Sustainability Report (report_id: APA_2024), covering all 11 required concept. APA operates across three geographies: U.S. (Permian Basin, Delaware Basin), Egypt (Western Desert, upstream + midstream), and the U.K. (North Sea, Beryl platform). All GHG figures are reported on an operational-control basis.
 
