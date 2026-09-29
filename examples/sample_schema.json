@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sample text record",
+  "type": "object",
+  "required": ["doc_id", "page", "block", "text", "label"],
+  "properties": {
+    "doc_id": {"type": "string", "pattern": "^DOC_[0-9]{3}$"},
+    "page": {"type": "integer", "minimum": 1},
+    "block": {"type": "integer", "minimum": 1},
+    "text": {"type": "string", "minLength": 1},
+    "label": {"type": "string", "enum": ["relevant", "not_relevant", "unsure"]},
+    "reviewer_note": {"type": "string"}
+  },
+  "additionalProperties": false
+}

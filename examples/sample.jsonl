@@ -1,0 +1,4 @@
+{"doc_id": "DOC_001", "page": 3, "block": 1, "text": "The organization reviews its operating procedures each year.", "label": "relevant"}
+{"doc_id": "DOC_001", "page": 3, "block": 2, "text": "Photo caption: team members at the annual event.", "label": "not_relevant"}
+{"doc_id": "DOC_001", "page": 4, "block": 1, "text": "Further details are provided in the appendix.", "label": "unsure", "reviewer_note": "Depends on appendix content."}
+{"doc_id": "DOC_002", "page": 1, "block": 1, "text": "Welcome to our annual summary.", "label": "not_relevant"}
